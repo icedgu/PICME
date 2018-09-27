@@ -1,0 +1,130 @@
+{
+  "recommendations": [
+    {
+      "subject": "극장",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 3,
+      "categories": ["movies and tv/movies"]
+    },
+    {
+      "subject": "공연",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 4,
+      "categories": ["shows and events"]
+    },
+    {
+      "subject": "요리",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 3,
+      "categories": ["cooking"]
+    },
+    {
+      "subject": "헬스",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["health and fitness"]
+    },
+    {
+      "subject": "운동",
+      "affectedBy": {
+        "weather": true,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["sports", "health and fitness", "exercise"]
+    },
+    {
+      "subject": "홈쇼핑",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 1,
+      "categories": ["shopping"]
+    },
+    {
+      "subject": "게임",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["game"]
+    },
+    {
+      "subject": "독서",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["reading"]
+    },
+    {
+      "subject": "스포츠관람",
+      "affectedBy": {
+        "weather": true,
+        "dayOfWeek": false
+      },
+      "duration": 3,
+      "categories": ["sports"]
+    },
+    {
+      "subject": "등산",
+      "affectedBy": {
+        "weather": true,
+        "dayOfWeek": true
+      },
+      "duration": 8,
+      "categories": ["trekking", "climbing"]
+    },
+    {
+      "subject": "여행",
+      "affectedBy": {
+        "weather": true,
+        "dayOfWeek": true
+      },
+      "duration": 24,
+      "categories": ["travel", "hotel", "airport"]
+    },
+    {
+      "subject": "드라이브",
+      "affectedBy": {
+        "weather": true,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["cars"]
+    },
+    {
+      "subject": "TV",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["television"]
+    },
+    {
+      "subject": "외국어공부",
+      "affectedBy": {
+        "weather": false,
+        "dayOfWeek": false
+      },
+      "duration": 2,
+      "categories": ["language learning", "education"]
+    }
+  ]
+}
